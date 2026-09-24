@@ -23,3 +23,7 @@ new_line
 Добавляем строку для Задание 4. Упрощаем себе жизнь
 
 Ещё добавляем строку для Задание 4. Упрощаем себе жизнь
+
+[Ссылка на решение в GitHub](https://github.com/Dmitry-Anastasiev/devops-netology/blob/main/README.md)
+
+[Ссылка на решение в GitLab](https://gitlab.com/dmitry.anastasiev/devops-netology/-/blob/main/README.md?ref_type=heads)
