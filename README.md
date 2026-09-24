@@ -19,3 +19,5 @@ new_line
 * Игнорирование везде файла .terraform.tfstate.lock.info
 
 * Игнорирование везде файлов .terraformrc и terraform.rc
+
+Добавляем строку для Задание 4. Упрощаем себе жизнь
